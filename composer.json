@@ -21,7 +21,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-openssl": "*",
-        "giggsey/libphonenumber-for-php": "^8.9",
+        "giggsey/libphonenumber-for-php": "^8.9|dev-update-sg-phone-number-format",
         "google/auth": "^0.11.0|^1.0",
         "google/cloud-storage": "^1.14",
         "guzzlehttp/guzzle": "^6.2.1|^7.0@beta",
